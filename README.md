@@ -7,9 +7,9 @@ I am a Western Governor's University student working to complete my Bachelor's i
 This portfolio is to help document my technical skills and learning journey in cybersecurity, in hopes of breaking into the cyber-security field as a Cyber-Security analyst.
 
 ## Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0677049f-00db-42c4-a66a-5375126f37ca" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="be6e629f-920b-407f-8a9c-db639ec4700b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0677049f-00db-42c4-a66a-5375126f37ca" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="be6e629f-920b-407f-8a9c-db639ec4700b" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0677049f-00db-42c4-a66a-5375126f37ca" data-share-badge-host="https://www.credly.com"></div>
 
 ## Projects
 - NMAP and Wireshark
