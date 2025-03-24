@@ -8,8 +8,14 @@ This portfolio is to help document my technical skills and learning journey in c
 
 ## Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="be6e629f-920b-407f-8a9c-db639ec4700b" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0677049f-00db-42c4-a66a-5375126f37ca" data-share-badge-host="https://www.credly.com"></div>
+### Comptia Security+
+Completed: 02/24
+
+### Comptia Network+
+Completed: 03/25
+
+### Comptia A+
+Completed: 11/24
 
 ## Projects
 - NMAP and Wireshark
